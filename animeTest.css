@@ -1,0 +1,6 @@
+.square {
+    background-color: aquamarine;
+    height: 40px; 
+    width: 40px; 
+    border: 2px dashed purple;
+}
