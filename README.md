@@ -10,6 +10,6 @@ Tools used are animeJs, npm, vanilla javascript, html, and css
 TBD
 
 ## Installation
-Clone repo
-npm install
-Usage
+* Clone repo
+* npm install
+* Usage
